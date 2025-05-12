@@ -2,6 +2,12 @@
 
 A modern, user-friendly crypto payment application designed for simplicity and elegance. Pretium lets users manage payments, bills, and transactions with cryptocurrency across Africa.
 
+## Releases
+
+[![Latest Release](https://img.shields.io/github/v/release/jesse-jacks0n/pretium)](https://github.com/jesse-jacks0n/pretium/releases/latest)
+
+Download the latest APK from our [releases page](https://github.com/jesse-jacks0n/pretium/releases).
+
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
