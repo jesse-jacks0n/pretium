@@ -5,7 +5,7 @@ A modern, user-friendly crypto payment application designed for simplicity and e
 ## Releases
 
 
-Download the latest APK from  [releases page](https://github.com/jesse-jacks0n/pretium/releases).
+Download the latest APK from my [releases page](https://github.com/jesse-jacks0n/pretium/releases).
 
 ## Screenshots
 
