@@ -4,9 +4,8 @@ A modern, user-friendly crypto payment application designed for simplicity and e
 
 ## Releases
 
-[![Latest Release](https://img.shields.io/github/v/release/jesse-jacks0n/pretium)](https://github.com/jesse-jacks0n/pretium/releases/latest)
 
-Download the latest APK from our [releases page](https://github.com/jesse-jacks0n/pretium/releases).
+Download the latest APK from  [releases page](https://github.com/jesse-jacks0n/pretium/releases).
 
 ## Screenshots
 
