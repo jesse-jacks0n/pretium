@@ -38,7 +38,7 @@ Download the latest APK from my [releases page](https://github.com/jesse-jacks0n
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pretium.git
+   git clone https://github.com/jesse-jacks0n/pretium
    cd pretium
    ```
 
